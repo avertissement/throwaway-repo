@@ -1,9 +1,16 @@
+/* LOCAL MAIN SHOULD NOT LOOK LIKE THIS BEFORE I PULL REMOTE MAIN DOWN TO LOCAL MAIN */
+
+p {
+    color: beige;
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+}
+
 div {
     background-color: cornsilk;
     border: 2.5px solid darkred;
 }
 
 h1, p  {
-    color: #000;
     justify-content: center;
 }
