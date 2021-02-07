@@ -1,0 +1,9 @@
+div {
+    background-color: cornsilk;
+    border: 2.5px solid darkred;
+}
+
+h1, p  {
+    color: #000;
+    justify-content: center;
+}
